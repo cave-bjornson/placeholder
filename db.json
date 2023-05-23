@@ -1,4 +1,5 @@
 {
+  "currency": {
   "base": "SEK",
   "date": "2021-03-17",
   "rates": {
@@ -8,4 +9,5 @@
   },
   "success": true,
   "timestamp": 1519296206
+  }
 }
