@@ -1,28 +1,17 @@
 {
   "exchangerates_data": [
     {
-      "id": "latest",
-      "base": "SEK",
-      "date": "2021-03-17",
-      "rates": {
-        "SEK": 0.813399,
-        "USD": 0.72007,
-        "EUR": 107.346001
-      },
-      "success": true,
-      "timestamp": 1519296206    
+      "latest": {
+        "base": "SEK",
+        "date": "2021-03-17",
+        "rates": {
+          "SEK": 0.813399,
+          "USD": 0.72007,
+          "EUR": 107.346001
+        },
+        "success": true,
+        "timestamp": 1519296206
+      }
     }
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
