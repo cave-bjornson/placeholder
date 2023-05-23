@@ -1,5 +1,5 @@
 {
-  "exchange_rates": [
+  "exchangerates_data": [
     {
       "base": "SEK",
       "date": "2021-03-17",
@@ -11,4 +11,5 @@
       "success": true,
       "timestamp": 1519296206
     }
+  ]
 }
